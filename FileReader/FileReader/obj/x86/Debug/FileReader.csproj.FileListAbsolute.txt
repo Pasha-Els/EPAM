@@ -1,0 +1,7 @@
+D:\Frog\C#\EPAM\FileReader\FileReader\bin\Debug\FileReader.exe
+D:\Frog\C#\EPAM\FileReader\FileReader\bin\Debug\FileReader.pdb
+D:\Frog\C#\EPAM\FileReader\FileReader\obj\x86\Debug\FileReader.exe
+D:\Frog\C#\EPAM\FileReader\FileReader\obj\x86\Debug\FileReader.pdb
+D:\Frog\C#\EPAM\FileReader\FileReader\obj\x86\Debug\FileReader.csprojResolveAssemblyReference.cache
+D:\Frog\C#\EPAM\FileReader\FileReader\bin\Debug\Newtonsoft.Json.dll
+D:\Frog\C#\EPAM\FileReader\FileReader\bin\Debug\Newtonsoft.Json.xml
