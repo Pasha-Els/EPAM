@@ -1,0 +1,4 @@
+D:\Frog\C#\EPAM\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Frog\C#\EPAM\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Frog\C#\EPAM\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Frog\C#\EPAM\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
