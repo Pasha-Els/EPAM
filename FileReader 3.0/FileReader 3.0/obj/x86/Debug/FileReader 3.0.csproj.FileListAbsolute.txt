@@ -1,7 +1,0 @@
-D:\Frog\C#\EPAM\FileReader 3.0\FileReader 3.0\bin\Debug\FileReader 3.0.exe
-D:\Frog\C#\EPAM\FileReader 3.0\FileReader 3.0\bin\Debug\FileReader 3.0.pdb
-D:\Frog\C#\EPAM\FileReader 3.0\FileReader 3.0\bin\Debug\Newtonsoft.Json.dll
-D:\Frog\C#\EPAM\FileReader 3.0\FileReader 3.0\bin\Debug\Newtonsoft.Json.xml
-D:\Frog\C#\EPAM\FileReader 3.0\FileReader 3.0\obj\x86\Debug\FileReader 3.0.csprojResolveAssemblyReference.cache
-D:\Frog\C#\EPAM\FileReader 3.0\FileReader 3.0\obj\x86\Debug\FileReader 3.0.exe
-D:\Frog\C#\EPAM\FileReader 3.0\FileReader 3.0\obj\x86\Debug\FileReader 3.0.pdb
